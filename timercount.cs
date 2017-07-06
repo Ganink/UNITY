@@ -29,3 +29,4 @@ public class timercount : MonoBehaviour {
         timerText.text = "" + timer.ToString("#.##");
     }
 }
+ 
