@@ -34,3 +34,4 @@ public class Points : MonoBehaviour {
         point = point + point;
     }
 }
+ 
