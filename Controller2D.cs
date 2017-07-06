@@ -39,4 +39,4 @@ public class Controller2D : MonoBehaviour
         //enviamos un mensaje y la cantidad de daño recibido
         healthbar.SendMessage("takeDamage", 15);
     }
-}
+} 
