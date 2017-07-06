@@ -24,3 +24,4 @@ public class HealthBar : MonoBehaviour {
         health.transform.localScale = new Vector2(hp / maxhp, 1);
     }
 }
+ 
