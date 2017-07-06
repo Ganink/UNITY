@@ -36,3 +36,4 @@ public class GeneratorPlatform : MonoBehaviour {
 		InvokeRepeating("createPlatform", 0.5f, GeneratorTimer);
 	}
 } 
+ 
