@@ -1,5 +1,6 @@
 # UNITY
 SCRIPTS UNITY
 
-Pueden ser usados sin ningun problema, el unico inconveniente 
-es que puede que algunas funciones no estén completas.
+Leer los distintos comentarios que contiene cada script.
+Tiene facil interpretación.
+Los que usan canvas (Game Over, Pause, Menú) deberá crearse dentro del entorno.
