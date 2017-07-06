@@ -28,3 +28,4 @@ public class EnemyGenerator : MonoBehaviour {
         Instantiate(EnemyPrefab, transform.position, Quaternion.identity);
     }
 }
+ 
