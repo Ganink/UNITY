@@ -6,20 +6,20 @@ using UnityEngine.UI;
 
 public class timercount : MonoBehaviour {
 
-    public GameObject player;
-    PlayerRespawn Respawn;
+    //public GameObject player;
+    //PlayerRespawn Respawn;
     public TextMesh timerText;
     public double timer;
 
 	void Start (){
-        Respawn = new PlayerRespawn();
+        /Respawn = new PlayerRespawn();
     }
 
     void Update () {
         if (timer > 0)
             TimerCountDown();
         else {
-            Destroy(player);
+            //Destroy(player);
             Debug.Log("Has perdido");
         }
     }
