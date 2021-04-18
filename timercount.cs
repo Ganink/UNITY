@@ -12,7 +12,7 @@ public class timercount : MonoBehaviour {
     public double timer;
 
 	void Start (){
-        /Respawn = new PlayerRespawn();
+        //Respawn = new PlayerRespawn();
     }
 
     void Update () {
